@@ -1,2 +1,1 @@
-# fss-WORM
-simple encapsulation for command-line commands
+[README](https://github.com/dmparrishphd/fss-CORW#readme)
